@@ -1,2 +1,2 @@
 # Harjoitukset
-Koulutehtävät
+Koulutehtävät ja muut sivut
